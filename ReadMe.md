@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning NextJs and TypeScript.
+I'm currently studying NextJs and TypeScript.
+Learning Web Dev since 2022
 
 
 # 💻 Tech Stack:
