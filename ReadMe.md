@@ -12,8 +12,7 @@
 
 ###
 
-![#zicxi #templates](https://github.com/user-attachments/assets/188f37d2-3b55-480a-b7d3-8ea326032051)
-
+![download (1)](https://github.com/user-attachments/assets/1f1e6668-9a5e-4ef5-abcc-8982568cf6bb)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KiraaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
