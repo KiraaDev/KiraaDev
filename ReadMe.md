@@ -4,4 +4,3 @@
 
 ###
 
-![download (1)](https://github.com/user-attachments/assets/1f1e6668-9a5e-4ef5-abcc-8982568cf6bb)
